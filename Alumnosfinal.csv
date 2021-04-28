@@ -1,0 +1,101 @@
+﻿Genero, Edad, Promedio, Pregunta_1, Pregunta_2, Pregunta_3, Pregunta_4, Pregunta_5, Pregunta_6, Pregunta_7, Pregunta_8, Pregunta_9, Pregunta_10, ¿Abandono?
+H,21,79, Alto, Regular, Si, No, Malo, Medio, No aplica, Si, Medio, No, No abandono
+H,20,85, Poco, Pocos, No, No, Bueno, Alto, No aplica, No, Alto, No, No abandono
+M,23,81, Poco, Regular, No, No, Medio, Medio, No, No, Bajo, Si, Posible Abandono
+M,25,88, Medio, Nulo, Si, No, Bueno, Alto, No, Si, Alto, No, No abandono
+M,24,74, Medio, Pocos, Si, No, Medio, Bajo, Si, No, Medio, Si, Posible abandono
+H,18,93, Alto, Nulo, Si, No, Bueno, Alto, No aplica, Si, Bajo, No, No abandono
+M,27,80, Medio, Regular, Si, Si, Medio, Medio, No, No, Alto, No, No abandono
+H,19,90, Medio, Pocos, No, No, Malo, Medio, No aplica, No, Bajo, No, Posible Abandono
+H,23,78, Poco, Muchos, No, No, Bueno, Bajo, No aplica, Si, Bajo, Si, Posible Abandono
+M,20,91, Poco, Regular, No, Si, Malo, Alto, No, Si, Medio, Si, No abandono
+M,28,83, Medio, Pocos, Si, No, Malo, Medio, Si, No, Bajo, Si, Posible Abandono
+H,22,75, Poco, Pocos, No, No, Medio, Bajo, No aplica, Si, Medio, Si, Posible Abandono
+H,21,96, Alto, Nulo, Si, No, Medio, Alto, No aplica, No, Medio, No, No Abandono
+M,24,73, Medio, Muchos, No, No, Medio, Bajo, No aplica, Si, Bajo, No, Posible Abandono
+H,19,87, Alto, Muchos, Si, No, Malo, Medio, No aplica, No, Medio, No, No Abandono
+H,25,84, Medio, Regular, No, Si, Malo, Medio, No aplica, Si, Bajo, No, No Abandono
+H,20,74, Poco, Pocos, Si, No, Medio, Bajo, No aplica, Si, Alto, No, No Abandono
+M,23,80, Medio, Regular, No, No, Malo, Medio, Si, No, Bajo, Si, Posible Abandono
+M,18,85, Poco, Muchos, No, No, Medio, Medio, No, No, Medio, No, No Abandono
+H,26,70, Medio, Regular, No, Si, Malo, Bajo, No aplica, No, Medio, Si, Posible Abandono
+M,25,93, Alto, Pocos, Si, No, Medio, Alto, No, Si, Medio, No, No abandono
+H,27,82, Poco, Pocos, Si, No, Malo, Bajo, No aplica, No, Bajo, Si, Posible Abandono
+H,22,90, Alto, Nulo, No, No, Bueno, Medio, No aplica, Si, Alto, Si, No Abandono
+H,20,80, Poco, Regular, Si, No, Medio, Alto, No aplica, No, Medio, No, No Abandono
+M,18,74, Poco, Muchos, No, Si, Malo, Medio, No, No, Medio, Si, Posible Abandono
+M,25,85, Medio, Nulo, No, No, Bueno, Medio, No, No, Alto, No, No Abandono
+M,21,79, Alto, Pocos, Si, No, Bueno, Medio, No, Si, Bajo, No, No Abandono
+H,19,97, Medio, Nulo, Si, No, Medio, Alto, No aplica, No, Alto, No, No Abandono  
+M,24,77, Poco, Regular, No, No, Malo, Bajo, Si, Si, Medio, No, No Abandono 
+H,19,71, Poco, Muchos, No, No, Malo, Bajo, No aplica, No, Medio, Si, Posible Abandono
+H,29,88, Medio, Pocos, No, No, Bueno, Alto, No aplica, No, Alto, Si, No Abandono  
+M,23,98, Alto, Pocos, Si, No, Bueno, Alto, No, Si, Alto, No, No Abandono 
+M,18,95, Medio, Nulo, No, No, Medio, Alto, No, Si, Medio, No, No Abandono   
+H,23,74, Poco, Pocos, Si, No, Malo, Bajo, No aplica, Si, Medio, Si, Posible Abandono 
+M,20,91, Poco, Regular, No, No, Medio, Medio, Si, No, Bajo, Si, Posible Abandono
+M,17,88, Alto, Nulo, Si, No, Bueno, Alto, No, Si, Alto, No, No Abandono
+H,26,71, Medio, Regular, Si, Si, Malo, Bajo, No aplica, No, Medio, Si, Posible Abandono 
+H,21,83, Alto, Pocos, Si, No, Bueno, Alto, No aplica, Si, Alto, No, No Abandono 
+M,25,98, Alto, Nulo, No, Si, Bueno, Alto, No, Si, Medio, No, No Abandono 
+M,19,87, Medio, Muchos, No, Si, Medio, Bajo, No, No, Bajo, Si, Posible Abandono
+H,22,89, Poco, Muchos, Si, No, Malo, Bajo, No aplica, Si, Alto, No, Posible Abandono  
+H,30,92, Alto, Nulo, No, No, Bueno, Alto, No aplica, No, Medio, No, No Abandono 
+M,29,73, Poco, Nulo, Si, Si, Medio, Medio, Si, No, Bajo, No, Posible Abandono 
+M,24,98, Alto, Muchos, Si, Si, Bueno, Alto, No, Si, Alto, No, No Abandono
+M,27,94, Poco, Nulo, No, No, Medio, Medio, No, Si, Bajo, No, No Abandono 
+H,28,97, Medio, Regular, Si, No, Bueno, Alto, No aplica, Si, Medio, No, No Abandono 
+H,25,86, Medio, Muchos, No, Si, Malo, Bajo, No aplica, Si, Bajo, Si, Posible Abandono
+H,19,76, Poco, Nulo, Si, No, Malo, Medio, No aplica, No, Medio, Si, Posible Abandono 
+M,18,99, Medio, Pocos, No, No, Medio, Alto, No, Si, Medio, No, No Abandono 
+M,18,91, Alto, Nulo, Si, No, Bueno, Alto, No, Si, Medio, No, No Abandono
+M,22,94, Poco, Regular, Si, No, Bueno, Bajo, Si, No, Bajo, No, Posible Abandono 
+H,24,92, Medio, Nulo, No, No, Medio, Medio, No aplica, No, Bajo, No, No abandono
+H,21,89, Poco, Regular, No, No, Medio, Medio, No aplica, No, Medio, Si, No abandono 
+M,18,79, Poco, Muchos, No, Si, Malo, Alto, Si, Si, Bajo, Si, Posible Abandono  
+M,25,71, Alto, Nulo, No, No, Medio, Bajo, No, Si, Bajo, No, No abandono 
+M,21,83, Alto, Muchos, No, No, Bueno, Bajo, Si, No, Medio, Si, Posible Abandono
+H,18,84, Alto, Nulo, No, Si, Medio, Medio, No aplica, Si, Alto, No, No abandono
+M,20,71, Alto, Regular, Si, No, Medio, Alto, No, Si, Alto, No, No abandono
+M,22,75, Poco, Pocos, No, Si, Bueno, Medio, No, Si, Medio, Si, No abandono
+H,21,76, Medio, Regular, Si, No, Bueno, Bajo, No aplica, No, Bajo, Si, Posible Abandono 
+H,23,84, Poco, Nulo, Si, Si, Malo, Alto, No aplica, No, Bajo, No, Posible Abandono 
+H,25,94, Medio, Muchos, Si, Si, Medio, Medio, No aplica, Si, Alto, No, No abandono 
+H,24,100, Medio, Nulo, Si, No, Medio, Alto, No aplica, Si, Alto, No, No abandono 
+M,17,72, Poco, Nulo, Si, Si, Medio, Bajo, Si, No, Bajo, Si, Posible Abandono 
+H,23,96, Poco, Regular, Si, Si, Bueno, Alto, No aplica, Si, Bajo, Si, Posible Abandono 
+H,18,94, Medio, Nulo, Si, No, Bueno, Alto, No aplica, Si, Bajo, Si, No abandono 
+M,19,70, Medio, Pocos, Si, No, Medio, Alto, No, Si, Alto, No, No abandono 
+M,21,72, Alto, Nulo, Si, Si, Medio, Bajo, Si, No, Medio, No, Posible Abandono 
+M,23,84, Medio, Regular, Si, Si, Bueno, Medio, Si, Si, Alto, No, No abandono
+H,25,91, Poco, Muchos, No, No, Medio, Alto, No aplica, Si, Alto, No, No abandono 
+M,18,86, Poco, Pocos, Si, No, Bueno, Medio, Si, Si, Alto, No, No abandono 
+H,18,84, Medio, Regular, Si, Si, Medio, Medio, No aplica, Si, Alto, No, No abandono
+M,18,78, Alto, Nulo, Si, Si, Bueno, Alto, Si, Si, Alto, No, No abandono 
+M,21,100, Poco, Regular, Si, No, Bueno, Alto, No, Si, Medio, Si, No abandono 
+H,20,84, Poco, Nulo, No, No, Medio, Medio, No aplica, Si, Alto, No, No abandono 
+M,19,97, Poco, Pocos, Si, Si, Malo, Alto, Si, Si, Alto, No, No abandono 
+H,24,82, Poco, Nulo, No, Si, Bueno, Bajo, No aplica, No, Medio, Si, Posible Abandono 
+M,24,76, Alto, Nulo, Si, Si, Bueno, Medio, Si, Si, Alto, No, No abandono 
+H,18,86, Alto, Pocos, No, Si, Bueno, Alto, No aplica, Si, Alto, No, No abandono 
+H,17,88, Alto, Nulo, No, No, Medio, Medio, No aplica, Si, Alto, No, No abandono
+M,18,85, Poco, Muchos, No, No, Medio, Alto, No, Si, Bajo, No, No abandono
+M,22,81, Alto, Regular, No, Si, Malo, Alto, No, Si, Medio, Si, No abandono 
+M,22,85, Poco, Regular, Si, Si, Medio, Alto, Si, Si, Medio, No, No abandono 
+M,23,90, Alto, Regular, Si, No, Bueno, Alto, No, Si, Alto, No, No abandono
+H,25,73, Medio, Regular, Si, No, Malo, Alto, No aplica, Si, Bajo, Si, Posible Abandono 
+H,20,90, Poco, Regular, No, Si, Bueno, Alto, No aplica, Si, Bajo, No, No abandono 
+M,17,80, Alto, Regular, Si, Si, Bueno, Medio, No, Si, Medio, No, No abandono 
+H,22,74, Medio, Muchos, Si, No, Malo, Alto, No aplica, Si, Medio, Si, Posible Abandono 
+H,23,90, Poco, Muchos, Si, No, Medio, Medio, No aplica, No, Bajo, No, Posible Abandono 
+H,21,81, Poco, Muchos, No, Si, Bueno, Bajo, No aplica, Si, Medio, Si, Posible Abandono 
+H,22,97, Medio, Muchos, Si, No, Malo, Alto, No aplica, Si, Bajo, Si, Posible Abandono 
+M,22,92, Poco, Nulo, Si, No, Medio, Medio, Si, Si, Medio, No,  No abandono 
+H,24,84, Poco, Regular, No, Si, Medio, Alto, No aplica, Si, Medio, No, No abandono 
+H,18,82, Alto, Pocos, Si, Si, Medio, Alto, No aplica, No, Medio, No, No abandono 
+M,22,75, Poco, Muchos, S, Si, Malo, Alto, Si, No, Medio, No, Posible Abandono 
+M,21,96, Medio, Nulo, Si, Si, Medio, Alto, No, Si, Alto, No, No abandono 
+M,21,72, Medio, Muchos, Si, No, Malo, Alto, Si, No, Bajo, Si, Posible Abandono 
+H,20,86, Alto, Muchos, Si, Si, Medio, Alto, No aplica, Si, Alto, No, No abandono 
+M,21,79, Alto, Nulo, Si, Si, Bueno, Medio, No, Si, Medio, Si, No abandono
+H,22,76, Poco, Pocos, No, Si, Malo, Alto, No aplica, No, Bajo, Si, Posible Abandono 
