@@ -1,4 +1,4 @@
-﻿Genero,Edad,Promedio,Pregunta_1,Pregunta_2,Pregunta_3,Pregunta_4,Pregunta_5,Pregunta_6,Pregunta_7,Pregunta_8,Pregunta_9,Pregunta_10,Clase
+﻿Genero,Edad,Promedio,Pregunta_1,Pregunta_2,Pregunta_3,Pregunta_4,Pregunta_5,Pregunta_6,Pregunta_7,Pregunta_8,Pregunta_9,Pregunta_10,Abandono
 H,21,79, Alto, Regular, Si, No, Malo, Medio, No_aplica, Si, Medio, No,0
 H,20,85, Poco, Pocos, No, No, Bueno, Alto, No_aplica, No, Alto, No,0
 M,23,81, Poco, Regular, No, No, Medio, Medio, No, No, Bajo, Si,1
