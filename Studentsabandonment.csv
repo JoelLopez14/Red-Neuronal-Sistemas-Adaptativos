@@ -93,7 +93,7 @@
 92,M,22,92, Poco, Nulo,1,0, Medio, Medio, Si,1, Medio,0,0
 93,H,24,84, Poco, Regular,0,1, Medio, Alto, No_aplica,1, Medio,0,0
 94,H,18,82, Alto, Pocos,1,1, Medio, Alto, No_aplica,0, Medio,0,0
-95,M,22,75, Poco, Muchos, S,1, Malo, Alto, Si,0, Medio,0,1
+95,M,22,75, Poco, Muchos,0,1, Malo, Alto, Si,0, Medio,0,1
 96,M,21,96, Medio, Nulo,1,1, Medio, Alto, No,1, Alto,0,0
 97,M,21,72, Medio, Muchos,1,0, Malo, Alto, Si,0, Bajo,1,1
 98,H,20,86, Alto, Muchos,1,1, Medio, Alto, No_aplica,1, Alto,0,0
