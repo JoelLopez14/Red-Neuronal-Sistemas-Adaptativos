@@ -1,101 +1,101 @@
 ﻿Idalumno,Genero,Edad,Promedio,Pregunta_1,Pregunta_2,Pregunta_3,Pregunta_4,Pregunta_5,Pregunta_6,Pregunta_7,Pregunta_8,Pregunta_9,Pregunta_10,Abandono
-1,H,21,79, Alto, Regular,Si,No, Malo, Medio, No,Si, Medio,No,0
-2,H,20,85, Poco, Pocos,No,No, Bueno, Alto, No,No, Alto,No,0
-3,M,23,81, Poco, Regular,No,No, Medio, Medio, No,No, Bajo,Si,1
-4,M,25,88, Medio, Nulo,Si,No, Bueno, Alto, No,Si, Alto,No,0
-5,M,24,74, Medio, Pocos,Si,No, Medio, Bajo, Si,No, Medio,Si,1
-6,H,18,93, Alto, Nulo,Si,No, Bueno, Alto, No,Si, Bajo,No,0
-7,M,27,80, Medio, Regular,Si,Si, Medio, Medio, No,No, Alto,No,0
-8,H,19,90, Medio, Pocos,No,No, Malo, Medio, No,No, Bajo,No,1
-9,H,23,78, Poco, Muchos,No,No, Bueno, Bajo, No,Si, Bajo,Si,1
-10,M,20,91, Poco, Regular,No,Si, Malo, Alto, No,Si, Medio,Si,0
-11,M,28,83, Medio, Pocos,Si,No, Malo, Medio, Si,No, Bajo,Si,1
-12,H,22,75, Poco, Pocos,No,No, Medio, Bajo, No,Si, Medio,Si,1
-13,H,21,96, Alto, Nulo,Si,No, Medio, Alto, No,No, Medio,No,0
-14,M,24,73, Medio, Muchos,No,No, Medio, Bajo, No,Si, Bajo,No,1
-15,H,19,87, Alto, Muchos,Si,No, Malo, Medio, No,No, Medio,No,0
-16,H,25,84, Medio, Regular,No,Si, Malo, Medio, No,Si, Bajo,No,0
-17,H,20,74, Poco, Pocos,Si,No, Medio, Bajo, No,Si, Alto,No,0
-18,M,23,80, Medio, Regular,No,No, Malo, Medio, Si,No, Bajo,Si,1
-19,M,18,85, Poco, Muchos,No,No, Medio, Medio, No,No, Medio,No,0
-20,H,26,70, Medio, Regular,No,Si, Malo, Bajo, No,No, Medio,Si,1
-21,M,25,93, Alto, Pocos,Si,No, Medio, Alto, No,Si, Medio,No,0
-22,H,27,82, Poco, Pocos,Si,No, Malo, Bajo, No,No, Bajo,Si,1
-23,H,22,90, Alto, Nulo,No,No, Bueno, Medio, No,Si, Alto,Si,0
-24,H,20,80, Poco, Regular,Si,No, Medio, Alto, No,No, Medio,No,0
-25,M,18,74, Poco, Muchos,No,Si, Malo, Medio, No,No, Medio,Si,1
-26,M,25,85, Medio, Nulo,No,No, Bueno, Medio, No,No, Alto,No,0
-27,M,21,79, Alto, Pocos,Si,No, Bueno, Medio, No,Si, Bajo,No,0
-28,H,19,97, Medio, Nulo,Si,No, Medio, Alto, No,No, Alto,No,0
-29,M,24,77, Poco, Regular,No,No, Malo, Bajo, Si,Si, Medio,No,0
-30,H,19,71, Poco, Muchos,No,No, Malo, Bajo, No,No, Medio,Si,1
-31,H,29,88, Medio, Pocos,No,No, Bueno, Alto, No,No, Alto,Si,0
-32,M,23,98, Alto, Pocos,Si,No, Bueno, Alto, No,Si, Alto,No,0
-33,M,18,95, Medio, Nulo,No,No, Medio, Alto, No,Si, Medio,No,0
-34,H,23,74, Poco, Pocos,Si,No, Malo, Bajo, No,Si, Medio,Si,1
-35,M,20,91, Poco, Regular,No,No, Medio, Medio, Si,No, Bajo,Si,1
-36,M,17,88, Alto, Nulo,Si,No, Bueno, Alto, No,Si, Alto,No,0
-37,H,26,71, Medio, Regular,Si,Si, Malo, Bajo, No,No, Medio,Si,1
-38,H,21,83, Alto, Pocos,Si,No, Bueno, Alto, No,Si, Alto,No,0
-39,M,25,98, Alto, Nulo,No,Si, Bueno, Alto, No,Si, Medio,No,0
-40,M,19,87, Medio, Muchos,No,Si, Medio, Bajo, No,No, Bajo,Si,1
-41,H,22,89, Poco, Muchos,Si,No, Malo, Bajo, No,Si, Alto,No,1
-42,H,30,92, Alto, Nulo,No,No, Bueno, Alto, No,No, Medio,No,0
-43,M,29,73, Poco, Nulo,Si,Si, Medio, Medio, Si,No, Bajo,No,1
-44,M,24,98, Alto, Muchos,Si,Si, Bueno, Alto, No,Si, Alto,No,0
-45,M,27,94, Poco, Nulo,No,No, Medio, Medio, No,Si, Bajo,No,0
-46,H,28,97, Medio, Regular,Si,No, Bueno, Alto, No,Si, Medio,No,0
-47,H,25,86, Medio, Muchos,No,Si, Malo, Bajo, No,Si, Bajo,Si,1
-48,H,19,76, Poco, Nulo,Si,No, Malo, Medio, No,No, Medio,Si,1
-49,M,18,99, Medio, Pocos,No,No, Medio, Alto, No,Si, Medio,No,0
-50,M,18,91, Alto, Nulo,Si,No, Bueno, Alto, No,Si, Medio,No,0
-51,M,22,94, Poco, Regular,Si,No, Bueno, Bajo, Si,No, Bajo,No,1
-52,H,24,92, Medio, Nulo,No,No, Medio, Medio, No,No, Bajo,No,0
-53,H,21,89, Poco, Regular,No,No, Medio, Medio, No,No, Medio,Si,0
-54,M,18,79, Poco, Muchos,No,Si, Malo, Alto, Si,Si, Bajo,Si,1
-55,M,25,71, Alto, Nulo,No,No, Medio, Bajo, No,Si, Bajo,No,0
-56,M,21,83, Alto, Muchos,No,No, Bueno, Bajo, Si,No, Medio,Si,1
-57,H,18,84, Alto, Nulo,No,Si, Medio, Medio, No,Si, Alto,No,0
-58,M,20,71, Alto, Regular,Si,No, Medio, Alto, No,Si, Alto,No,0
-59,M,22,75, Poco, Pocos,No,Si, Bueno, Medio, No,Si, Medio,Si,0
-60,H,21,76, Medio, Regular,Si,No, Bueno, Bajo, No,No, Bajo,Si,1
-61,H,23,84, Poco, Nulo,Si,Si, Malo, Alto, No,No, Bajo,No,1
-62,H,25,94, Medio, Muchos,Si,Si, Medio, Medio, No,Si, Alto,No,0
-63,H,24,100, Medio, Nulo,Si,No, Medio, Alto, No,Si, Alto,No,0
-64,M,17,72, Poco, Nulo,Si,Si, Medio, Bajo, Si,No, Bajo,Si,1
-65,H,23,96, Poco, Regular,Si,Si, Bueno, Alto, No,Si, Bajo,Si,1
-66,H,18,94, Medio, Nulo,Si,No, Bueno, Alto, No,Si, Bajo,Si,0
-67,M,19,70, Medio, Pocos,Si,No, Medio, Alto, No,Si, Alto,No,0
-68,M,21,72, Alto, Nulo,Si,Si, Medio, Bajo, Si,No, Medio,No,1
-69,M,23,84, Medio, Regular,Si,Si, Bueno, Medio, Si,Si, Alto,No,0
-70,H,25,91, Poco, Muchos,No,No, Medio, Alto, No,Si, Alto,No,0
-71,M,18,86, Poco, Pocos,Si,No, Bueno, Medio, Si,Si, Alto,No,0
-72,H,18,84, Medio, Regular,Si,Si, Medio, Medio, No,Si, Alto,No,0
-73,M,18,78, Alto, Nulo,Si,Si, Bueno, Alto, Si,Si, Alto,No,0
-74,M,21,100, Poco, Regular,Si,No, Bueno, Alto, No,Si, Medio,Si,0
-75,H,20,84, Poco, Nulo,No,No, Medio, Medio, No,Si, Alto,No,0
-76,M,19,97, Poco, Pocos,Si,Si, Malo, Alto, Si,Si, Alto,No,0
-77,H,24,82, Poco, Nulo,No,Si, Bueno, Bajo, No,No, Medio,Si,1
-78,M,24,76, Alto, Nulo,Si,Si, Bueno, Medio, Si,Si, Alto,No,0
-79,H,18,86, Alto, Pocos,No,Si, Bueno, Alto, No,Si, Alto,No,0
-80,H,17,88, Alto, Nulo,No,No, Medio, Medio, No,Si, Alto,No,0
-81,M,18,85, Poco, Muchos,No,No, Medio, Alto, No,Si, Bajo,No,0
-82,M,22,81, Alto, Regular,No,Si, Malo, Alto, No,Si, Medio,Si,0
-83,M,22,85, Poco, Regular,Si,Si, Medio, Alto, Si,Si, Medio,No,0
-84,M,23,90, Alto, Regular,Si,No, Bueno, Alto, No,Si, Alto,No,0
-85,H,25,73, Medio, Regular,Si,No, Malo, Alto, No,Si, Bajo,Si,1
-86,H,20,90, Poco, Regular,No,Si, Bueno, Alto, No,Si, Bajo,No,0
-87,M,17,80, Alto, Regular,Si,Si, Bueno, Medio, No,Si, Medio,No,0
-88,H,22,74, Medio, Muchos,Si,No, Malo, Alto, No,Si, Medio,Si,1
-89,H,23,90, Poco, Muchos,Si,No, Medio, Medio, No,No, Bajo,No,1
-90,H,21,81, Poco, Muchos,No,Si, Bueno, Bajo, No,Si, Medio,Si,1
-91,H,22,97, Medio, Muchos,Si,No, Malo, Alto, No,Si, Bajo,Si,1
-92,M,22,92, Poco, Nulo,Si,No, Medio, Medio, Si,Si, Medio,No,0
-93,H,24,84, Poco, Regular,No,Si, Medio, Alto, No,Si, Medio,No,0
-94,H,18,82, Alto, Pocos,Si,Si, Medio, Alto, No,No, Medio,No,0
-95,M,22,75, Poco, Muchos,No,Si, Malo, Alto, Si,No, Medio,No,1
-96,M,21,96, Medio, Nulo,Si,Si, Medio, Alto, No,Si, Alto,No,0
-97,M,21,72, Medio, Muchos,Si,No, Malo, Alto, Si,No, Bajo,Si,1
-98,H,20,86, Alto, Muchos,Si,Si, Medio, Alto, No,Si, Alto,No,0
-99,M,21,79, Alto, Nulo,Si,Si, Bueno, Medio, No,Si, Medio,Si,0
-100,H,22,76, Poco, Pocos,No,Si, Malo, Alto, No,No, Bajo,Si,1
+1,H,21,79,Alto,Regular,Si,No,Malo,Medio,No,Si,Medio,No,0
+2,H,20,85,Poco,Pocos,No,No,Bueno,Alto,No,No,Alto,No,0
+3,M,23,81,Poco,Regular,No,No,Medio,Medio,No,No,Bajo,Si,1
+4,M,25,88,Medio,Nulo,Si,No,Bueno,Alto,No,Si,Alto,No,0
+5,M,24,74,Medio,Pocos,Si,No,Medio,Bajo,Si,No,Medio,Si,1
+6,H,18,93,Alto,Nulo,Si,No,Bueno,Alto,No,Si,Bajo,No,0
+7,M,27,80,Medio,Regular,Si,Si,Medio,Medio,No,No,Alto,No,0
+8,H,19,90,Medio,Pocos,No,No,Malo,Medio,No,No,Bajo,No,1
+9,H,23,78,Poco,Muchos,No,No,Bueno,Bajo,No,Si,Bajo,Si,1
+10,M,20,91,Poco,Regular,No,Si,Malo,Alto,No,Si,Medio,Si,0
+11,M,28,83,Medio,Pocos,Si,No,Malo,Medio,Si,No,Bajo,Si,1
+12,H,22,75,Poco,Pocos,No,No,Medio,Bajo,No,Si,Medio,Si,1
+13,H,21,96,Alto,Nulo,Si,No,Medio,Alto,No,No,Medio,No,0
+14,M,24,73,Medio,Muchos,No,No,Medio,Bajo,No,Si,Bajo,No,1
+15,H,19,87,Alto,Muchos,Si,No,Malo,Medio,No,No,Medio,No,0
+16,H,25,84,Medio,Regular,No,Si,Malo,Medio,No,Si,Bajo,No,0
+17,H,20,74,Poco,Pocos,Si,No,Medio,Bajo,No,Si,Alto,No,0
+18,M,23,80,Medio,Regular,No,No,Malo,Medio,Si,No,Bajo,Si,1
+19,M,18,85,Poco,Muchos,No,No,Medio,Medio,No,No,Medio,No,0
+20,H,26,70,Medio,Regular,No,Si,Malo,Bajo,No,No,Medio,Si,1
+21,M,25,93,Alto,Pocos,Si,No,Medio,Alto,No,Si,Medio,No,0
+22,H,27,82,Poco,Pocos,Si,No,Malo,Bajo,No,No,Bajo,Si,1
+23,H,22,90,Alto,Nulo,No,No,Bueno,Medio,No,Si,Alto,Si,0
+24,H,20,80,Poco,Regular,Si,No,Medio,Alto,No,No,Medio,No,0
+25,M,18,74,Poco,Muchos,No,Si,Malo,Medio,No,No,Medio,Si,1
+26,M,25,85,Medio,Nulo,No,No,Bueno,Medio,No,No,Alto,No,0
+27,M,21,79,Alto,Pocos,Si,No,Bueno,Medio,No,Si,Bajo,No,0
+28,H,19,97,Medio,Nulo,Si,No,Medio,Alto,No,No,Alto,No,0
+29,M,24,77,Poco,Regular,No,No,Malo,Bajo,Si,Si,Medio,No,0
+30,H,19,71,Poco,Muchos,No,No,Malo,Bajo,No,No,Medio,Si,1
+31,H,29,88,Medio,Pocos,No,No,Bueno,Alto,No,No,Alto,Si,0
+32,M,23,98,Alto,Pocos,Si,No,Bueno,Alto,No,Si,Alto,No,0
+33,M,18,95,Medio,Nulo,No,No,Medio,Alto,No,Si,Medio,No,0
+34,H,23,74,Poco,Pocos,Si,No,Malo,Bajo,No,Si,Medio,Si,1
+35,M,20,91,Poco,Regular,No,No,Medio,Medio,Si,No,Bajo,Si,1
+36,M,17,88,Alto,Nulo,Si,No,Bueno,Alto,No,Si,Alto,No,0
+37,H,26,71,Medio,Regular,Si,Si,Malo,Bajo,No,No,Medio,Si,1
+38,H,21,83,Alto,Pocos,Si,No,Bueno,Alto,No,Si,Alto,No,0
+39,M,25,98,Alto,Nulo,No,Si,Bueno,Alto,No,Si,Medio,No,0
+40,M,19,87,Medio,Muchos,No,Si,Medio,Bajo,No,No,Bajo,Si,1
+41,H,22,89,Poco,Muchos,Si,No,Malo,Bajo,No,Si,Alto,No,1
+42,H,30,92,Alto,Nulo,No,No,Bueno,Alto,No,No,Medio,No,0
+43,M,29,73,Poco,Nulo,Si,Si,Medio,Medio,Si,No,Bajo,No,1
+44,M,24,98,Alto,Muchos,Si,Si,Bueno,Alto,No,Si,Alto,No,0
+45,M,27,94,Poco,Nulo,No,No,Medio,Medio,No,Si,Bajo,No,0
+46,H,28,97,Medio,Regular,Si,No,Bueno,Alto,No,Si,Medio,No,0
+47,H,25,86,Medio,Muchos,No,Si,Malo,Bajo,No,Si,Bajo,Si,1
+48,H,19,76,Poco,Nulo,Si,No,Malo,Medio,No,No,Medio,Si,1
+49,M,18,99,Medio,Pocos,No,No,Medio,Alto,No,Si,Medio,No,0
+50,M,18,91,Alto,Nulo,Si,No,Bueno,Alto,No,Si,Medio,No,0
+51,M,22,94,Poco,Regular,Si,No,Bueno,Bajo,Si,No,Bajo,No,1
+52,H,24,92,Medio,Nulo,No,No,Medio,Medio,No,No,Bajo,No,0
+53,H,21,89,Poco,Regular,No,No,Medio,Medio,No,No,Medio,Si,0
+54,M,18,79,Poco,Muchos,No,Si,Malo,Alto,Si,Si,Bajo,Si,1
+55,M,25,71,Alto,Nulo,No,No,Medio,Bajo,No,Si,Bajo,No,0
+56,M,21,83,Alto,Muchos,No,No,Bueno,Bajo,Si,No,Medio,Si,1
+57,H,18,84,Alto,Nulo,No,Si,Medio,Medio,No,Si,Alto,No,0
+58,M,20,71,Alto,Regular,Si,No,Medio,Alto,No,Si,Alto,No,0
+59,M,22,75,Poco,Pocos,No,Si,Bueno,Medio,No,Si,Medio,Si,0
+60,H,21,76,Medio,Regular,Si,No,Bueno,Bajo,No,No,Bajo,Si,1
+61,H,23,84,Poco,Nulo,Si,Si,Malo,Alto,No,No,Bajo,No,1
+62,H,25,94,Medio,Muchos,Si,Si,Medio,Medio,No,Si,Alto,No,0
+63,H,24,100,Medio,Nulo,Si,No,Medio,Alto,No,Si,Alto,No,0
+64,M,17,72,Poco,Nulo,Si,Si,Medio,Bajo,Si,No,Bajo,Si,1
+65,H,23,96,Poco,Regular,Si,Si,Bueno,Alto,No,Si,Bajo,Si,1
+66,H,18,94,Medio,Nulo,Si,No,Bueno,Alto,No,Si,Bajo,Si,0
+67,M,19,70,Medio,Pocos,Si,No,Medio,Alto,No,Si,Alto,No,0
+68,M,21,72,Alto,Nulo,Si,Si,Medio,Bajo,Si,No,Medio,No,1
+69,M,23,84,Medio,Regular,Si,Si,Bueno,Medio,Si,Si,Alto,No,0
+70,H,25,91,Poco,Muchos,No,No,Medio,Alto,No,Si,Alto,No,0
+71,M,18,86,Poco,Pocos,Si,No,Bueno,Medio,Si,Si,Alto,No,0
+72,H,18,84,Medio,Regular,Si,Si,Medio,Medio,No,Si,Alto,No,0
+73,M,18,78,Alto,Nulo,Si,Si,Bueno,Alto,Si,Si,Alto,No,0
+74,M,21,100,Poco,Regular,Si,No,Bueno,Alto,No,Si,Medio,Si,0
+75,H,20,84,Poco,Nulo,No,No,Medio,Medio,No,Si,Alto,No,0
+76,M,19,97,Poco,Pocos,Si,Si,Malo,Alto,Si,Si,Alto,No,0
+77,H,24,82,Poco,Nulo,No,Si,Bueno,Bajo,No,No,Medio,Si,1
+78,M,24,76,Alto,Nulo,Si,Si,Bueno,Medio,Si,Si,Alto,No,0
+79,H,18,86,Alto,Pocos,No,Si,Bueno,Alto,No,Si,Alto,No,0
+80,H,17,88,Alto,Nulo,No,No,Medio,Medio,No,Si,Alto,No,0
+81,M,18,85,Poco,Muchos,No,No,Medio,Alto,No,Si,Bajo,No,0
+82,M,22,81,Alto,Regular,No,Si,Malo,Alto,No,Si,Medio,Si,0
+83,M,22,85,Poco,Regular,Si,Si,Medio,Alto,Si,Si,Medio,No,0
+84,M,23,90,Alto,Regular,Si,No,Bueno,Alto,No,Si,Alto,No,0
+85,H,25,73,Medio,Regular,Si,No,Malo,Alto,No,Si,Bajo,Si,1
+86,H,20,90,Poco,Regular,No,Si,Bueno,Alto,No,Si,Bajo,No,0
+87,M,17,80,Alto,Regular,Si,Si,Bueno,Medio,No,Si,Medio,No,0
+88,H,22,74,Medio,Muchos,Si,No,Malo,Alto,No,Si,Medio,Si,1
+89,H,23,90,Poco,Muchos,Si,No,Medio,Medio,No,No,Bajo,No,1
+90,H,21,81,Poco,Muchos,No,Si,Bueno,Bajo,No,Si,Medio,Si,1
+91,H,22,97,Medio,Muchos,Si,No,Malo,Alto,No,Si,Bajo,Si,1
+92,M,22,92,Poco,Nulo,Si,No,Medio,Medio,Si,Si,Medio,No,0
+93,H,24,84,Poco,Regular,No,Si,Medio,Alto,No,Si,Medio,No,0
+94,H,18,82,Alto,Pocos,Si,Si,Medio,Alto,No,No,Medio,No,0
+95,M,22,75,Poco,Muchos,No,Si,Malo,Alto,Si,No,Medio,No,1
+96,M,21,96,Medio,Nulo,Si,Si,Medio,Alto,No,Si,Alto,No,0
+97,M,21,72,Medio,Muchos,Si,No,Malo,Alto,Si,No,Bajo,Si,1
+98,H,20,86,Alto,Muchos,Si,Si,Medio,Alto,No,Si,Alto,No,0
+99,M,21,79,Alto,Nulo,Si,Si,Bueno,Medio,No,Si,Medio,Si,0
+100,H,22,76,Poco,Pocos,No,Si,Malo,Alto,No,No,Bajo,Si,1
